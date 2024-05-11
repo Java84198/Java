@@ -31,4 +31,4 @@ The combat is resolved through dice rolls:
 This program is a simple representation of the mechanics found in Risk-like games. It demonstrates basic Java programming concepts such as classes, methods, loops, and conditionals.
 
 ## License
-The code is open-source and can be modified or distributed under the terms specified by the original author, Giuseppe Amoddio.
+The code is open-source and can be modified or distributed under the terms specified by the original author, Giuseppe A.
