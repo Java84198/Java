@@ -25,6 +25,7 @@ public class Main {
         territori.add(new Territorio("Germania", 40));
         territori.add(new Territorio("Francia", 30));
         territori.add(new Territorio("Regno Unito", 20));
+        territori.add(new Territorio("Italia",200));
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Scegli il tuo territorio:");
